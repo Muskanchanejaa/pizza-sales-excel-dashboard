@@ -1,6 +1,7 @@
 
 <img width="1061" height="505" alt="Screenshot 2026-06-05 at 5 49 42 PM" src="https://github.com/user-attachments/assets/6bfc26d3-5f19-4386-9d0f-b8d9759df526" />
 
+<img width="758" height="535" alt="Screenshot 2026-06-05 at 5 52 53 PM" src="https://github.com/user-attachments/assets/e7977bdc-d2a8-4a86-a1d3-84fa6eb81b45" />
 
 # Pizza Sales Analytics & MIS Dashboard
 
